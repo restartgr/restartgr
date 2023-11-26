@@ -1,4 +1,4 @@
-## Hey there, I am Guo Rui
+## Hey there, I am Jörmungandr
 
 ![Profile views](https://komarev.com/ghpvc/?username=restartgr)
 
